@@ -1,0 +1,23 @@
+{
+  "name": "restapiadopet",
+  "version": "1.0.0",
+  "description": "Rest API para adopet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moscarde/restapiadopet.git"
+  },
+  "keywords": [],
+  "author": "Gabriel Moscarde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Moscarde/restapiadopet/issues"
+  },
+  "homepage": "https://github.com/Moscarde/restapiadopet#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
