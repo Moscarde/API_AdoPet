@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "nome": "Gabriel Moscarde 1211",
+        "email": "gabrielmoscarde@outlook.com",
+        "telefone": "5521999998888",
+        "cidade": "Rio de Janeiro",
+        "sobre": "Olá, eu sou o Gabriel Moscarde!",
+        "foto_perfil": "https://github.com/Moscarde.png",
+        "senha": "Password123",
+        "login_time": ""
+    },
+    {
+        "id": 2,
+        "nome": "Joana Magalhães",
+        "email": "joanamagalhaes@email.com",
+        "telefone": "5521123451234",
+        "cidade": "São Paulo",
+        "sobre": "",
+        "foto_perfil": "../img/Perfil.svg",
+        "senha": "Password123",
+        "login_time": ""
+    },
+    {
+        "nome": "Novo Usuário",
+        "email": "email.novo@email.com",
+        "senha": "NovaSenha123",
+        "id": 3
+    },
+    {
+        "nome": "gabriellll@email.com",
+        "email": "gabriellll@email.com",
+        "senha": "Gabriel01",
+        "telefone": "",
+        "cidade": "",
+        "sobre": "",
+        "foto_perfil": "",
+        "login_time": "",
+        "id": 4
+    },
+    {
+        "nome": "gabriellll@email.com",
+        "email": "gabriellll@email.com",
+        "senha": "Gabriel01",
+        "telefone": "sef",
+        "cidade": "awd",
+        "sobre": "awc",
+        "foto_perfil": "https://github.githubassets.com/images/modules/site/home/globe-700.jpg",
+        "login_time": "",
+        "id": 5
+    },
+    {
+        "nome": "gabriellll@email.com",
+        "email": "gabriellll@email.com",
+        "senha": "Gabriel01",
+        "telefone": "",
+        "cidade": "",
+        "sobre": "",
+        "foto_perfil": "",
+        "login_time": "",
+        "id": 6
+    },
+    {
+        "nome": "Alura",
+        "email": "alura@email.com",
+        "senha": "Senha123",
+        "telefone": "",
+        "cidade": "",
+        "sobre": "",
+        "foto_perfil": "",
+        "login_time": "",
+        "id": 7
+    },
+    {
+        "id": "8",
+        "nome": "gabriellll@email.com",
+        "email": "gabriellll@email.com",
+        "telefone": "",
+        "cidade": "",
+        "sobre": "",
+        "foto_perfil": ""
+    },
+    {
+        "id": "9",
+        "nome": "999",
+        "email": "gabriellll@email.com",
+        "telefone": "",
+        "cidade": "",
+        "sobre": "",
+        "foto_perfil": ""
+    }
+]
