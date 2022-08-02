@@ -21,12 +21,12 @@
     },
     {
         "id": "3",
-        "nome": "Novo Nome 3",
+        "nome": "Gabriel Moscarde",
         "email": "email@padrao.com",
-        "telefone": "",
-        "cidade": "",
-        "sobre": "",
-        "foto_perfil": "",
+        "telefone": "21 992897471",
+        "cidade": "Rio de Janeiro",
+        "sobre": "Olá! Eu sou o Gabriel Moscarde!",
+        "foto_perfil": "https://github.com/Moscarde.png",
         "senha": "Password123"
     }
 ]
